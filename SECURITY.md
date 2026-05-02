@@ -1,4 +1,4 @@
-<!-- This file is automatically added by @npmcli/template-oss. Do not edit. -->
+<!-- This file is automatically added by @npmcli/template-oss. Do not edit. -->open source repository only access to open spent source and invite not respect include moderate as total respect
 
 GitHub takes the security of our software products and services seriously, including the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
 
